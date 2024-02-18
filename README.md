@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shanika Dilrukshi an Entureprenure</h1>
-<h3 align="center">An undergraduate</h3>
+<h3 align="center">An undergraduate at Sabaragamuwa University of Sri Lanka.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=o1shanika&label=Profile%20views&color=0e75b6&style=flat" alt="o1shanika" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=o1shanika" alt="o1shanika" /></a> </p>
 
-- 🌱 I’m currently learning **Computing & information system**
+- 🌱 I’m currently learning **Computing & information system.In the future I am going to estiblish my own AI company which only focus the science feild.I am ongoing on researching my first AI model ChemIQ**
 
 - 📫 How to reach me **shanika010712@gmail.com**
 
