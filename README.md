@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shanika Dilrukshi an Entureprenure</h1>
+<h1 align="center">Hi 👋, I'm Shanika Dilrukshi </h1>
 <h3 align="center">An undergraduate at Sabaragamuwa University of Sri Lanka.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=o1shanika&label=Profile%20views&color=0e75b6&style=flat" alt="o1shanika" /> </p>
