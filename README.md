@@ -1,13 +1,60 @@
-<h1 align="center">Hi 👋, I'm Shanika Dilrukshi </h1>
-<h3 align="center">An undergraduate at Sabaragamuwa University of Sri Lanka.</h3>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Shanika Dilrukshi
+</h1>
+<h3 align="center">An Undergraduate at Sabaragamuwa University of Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=o1shanika&label=Profile%20views&color=0e75b6&style=flat" alt="o1shanika" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=o1shanika&label=Profile%20Views&color=0e75b6&style=flat" alt="o1shanika" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=o1shanika" alt="o1shanika" /></a> </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=o1shanika&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+</div>
 
-- 🌱 I’m currently learning **Computing & information system.In the future I am going to estiblish my own AI company which only focus the science feild.I am ongoing on researching my first AI model ChemIQ**
+---
 
-- 📫 How to reach me **shanika010712@gmail.com**
+### 🌟 About Me
+- 🌱 I’m currently learning **Computing & Information Systems**  
+- 🖥️ Passionate about Full-Stack Development, Machine Learning, and Data Science  
+- 🛠️ Exploring new technologies and building impactful projects  
+- 📫 Reach me at **shanika010712@gmail.com**  
+
+---
+
+### 🚀 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+---
+
+### 🌟 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=o1shanika&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=o1shanika&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o1shanika&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 💬 Let's Connect!
+<p align="center">
+  <a href="mailto:shanika010712@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/o1shanika" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Building+Creative+Solutions;Always+Learning+New+Skills;Passionate+about+Technology+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
+
 
 - ⚡ Fun fact **I think I am a Nobel winner**
 
