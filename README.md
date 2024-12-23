@@ -1,5 +1,8 @@
+
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Shanika Dilrukshi
+  <span style="display: inline-block; animation: text-flicker-in-glow 3s linear infinite;">
+    Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Shanika Dilrukshi
+  </span>
 </h1>
 <h3 align="center">An Undergraduate at Sabaragamuwa University of Sri Lanka</h3>
 
@@ -54,6 +57,25 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Building+Creative+Solutions;Always+Learning+New+Skills;Passionate+about+Technology+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
+
+<style>
+@keyframes text-flicker-in-glow {
+  0% {
+    text-shadow: 0 0 2px #fff, 0 0 4px #ff00ff, 0 0 8px #ff00ff, 0 0 16px #ff00ff, 0 0 32px #ff00ff;
+  }
+  50% {
+    text-shadow: 0 0 4px #00ffff, 0 0 8px #00ffff, 0 0 16px #00ffff, 0 0 32px #00ffff, 0 0 64px #00ffff;
+  }
+  100% {
+    text-shadow: 0 0 2px #fff, 0 0 4px #ff00ff, 0 0 8px #ff00ff, 0 0 16px #ff00ff, 0 0 32px #ff00ff;
+  }
+}
+</style>
+
+
+
+
+
 
 
 - ⚡ Fun fact **I think I am a Nobel winner**
